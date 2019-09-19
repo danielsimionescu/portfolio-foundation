@@ -1,0 +1,18 @@
+header .callout {
+    background-color: #e9ecef;
+}
+
+.card-body-image img {
+    height: 60px;
+    float: right;
+}
+
+.tabs-panel {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.menu li {
+    padding: 10px 0;
+    border-top: 1px solid rgba(0,0,0,.125);
+}
