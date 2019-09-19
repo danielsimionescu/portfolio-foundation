@@ -7,11 +7,6 @@ header .callout {
     float: right;
 }
 
-.tabs-panel {
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
 .menu li {
     padding: 10px 0;
     border-top: 1px solid rgba(0,0,0,.125);
